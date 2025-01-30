@@ -27,8 +27,8 @@ This project aims to develop an artificial intelligence-based system that allows
 
 
 
-## *Dataset*
+## Dataset
 
-  - Data set research on Kaggle and selecting a data set suitable for the project.
-  - **[Dataset Link](https://www.kaggle.com/datasets/niten19/faceshape-dataset)**
+  - A data set suitable for the project was selected in Kaggle.
+  - **[Dataset Link](https://www.kaggle.com/datasets/niten19/face-shape-dataset)**
 
